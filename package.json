@@ -1,0 +1,22 @@
+{
+  "name": "festy-planner",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "github:rails/webpacker",
+    "babel-preset-react": "^6.24.1",
+    "coffeescript": "^2.0.1",
+    "dependency-list": "^0.2.2",
+    "fbjs": "^0.8.16",
+    "loose-envify": "^1.3.1",
+    "object-assign": "^4.1.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.9.1"
+  }
+}
